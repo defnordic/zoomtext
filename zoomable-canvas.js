@@ -16,7 +16,27 @@ ZTC.data = [{
     x : 0,
     y : 0,
     z : 1,
-    t : 'Hello'
+    t : 'Bürgerbeteiligung und Demokratie'
+},{
+    x : 0,
+    y : 0,
+    z : 1,
+    t : ' Datenschutz'
+},{
+    x : 0,
+    y : 0,
+    z : 1,
+    t : 'Privatsphäre'
+},{
+    x : 0,
+    y : 0,
+    z : 1,
+    t : 'Netzpolitik'
+},{
+    x : 0,
+    y : 0,
+    z : 1,
+    t : 'Urheberrecht'
 },{
     x : 70,
     y : 15,
